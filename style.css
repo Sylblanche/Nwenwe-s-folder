@@ -1,0 +1,35 @@
+body {
+  background-color: #ccc;
+  font-family: Courier;
+  color: blue;
+}
+.black-text {
+  color: black;
+}
+h1 {
+  text-transform: capitalize;
+  font: size 68px;
+  font-weight: 500;
+}
+a {
+  position: relative;
+  top: 10px;
+}
+input {
+  position: relative;
+  top: 20px;
+}
+button {
+  position: relative;
+  top: 20px;
+  left: 15px;
+}
+img {
+  position: relative;
+  left: 25px;
+  top: 20px;
+}
+ul {
+  position: relative;
+  bottom: 0px;
+}
