@@ -29,7 +29,15 @@ img {
   left: 25px;
   top: 20px;
 }
-ul {
+ol {
   position: relative;
-  bottom: 0px;
+  bottom: 20px;
+}
+.blue {
+  background-color: hsl(240, 100%, 50%);
+}
+div {
+  display: inline-block;
+  height: 100px;
+  width: 100px;
 }
