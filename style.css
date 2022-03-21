@@ -1,5 +1,5 @@
 body {
-  background-color: #ccc;
+  background: Linear-gradient(45deg, #ccffff, #ffffcc);
   font-family: Courier;
   color: purple;
 }
